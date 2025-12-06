@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Zalando+Sans+Expanded:ital,wght@0,200..900;1,200..900&display=swap');
 body {
-    background-image: url(/img/fonn.jpg);
+    background-image: url(fonn.jpg);
     background-attachment: fixed;
     background-size: cover;
     cursor: url('/img/cursor.png'), auto;
@@ -168,3 +168,4 @@ button:hover {
     display: block;
 
 }
+
